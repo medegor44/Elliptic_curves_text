@@ -1,157 +1,167 @@
-PWD c:\Projects\TeX\Elliptic curves
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Projects\TeX\Elliptic curves\main.tex
-OUTPUT c:\Projects\TeX\Elliptic curves\main.log
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t2aenc.dfu
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t2aenc.dfu
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypic.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypic.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xydash10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xyatip10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xybtip10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xybsql10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xycirc10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT c:\Projects\TeX\Elliptic curves\main.aux
-INPUT c:\Projects\TeX\Elliptic curves\main.aux
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm1200.tfm
-OUTPUT c:\Projects\TeX\Elliptic curves\main.aux
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm1728.tfm
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\labx1728.tfm
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\lati1200.tfm
-INPUT c:\Projects\TeX\Elliptic curves\pics\EC.png
-INPUT c:\Projects\TeX\Elliptic curves\pics\EC.png
-OUTPUT c:\Projects\TeX\Elliptic curves\main.pdf
-INPUT c:\Projects\TeX\Elliptic curves\pics\EC.png
-INPUT c:\Projects\TeX\Elliptic curves\pics\EC.png
-INPUT c:\Projects\TeX\Elliptic curves\pics\EC.png
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Projects\TeX\Elliptic curves\main.aux
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
-INPUT C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+PWD f:\Projects\TeX\Elliptic_curves_text
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT f:\Projects\TeX\Elliptic_curves_text\main.tex
+OUTPUT f:\Projects\TeX\Elliptic_curves_text\main.log
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypic.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypic.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xy.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xydash10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xyatip10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xybtip10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xybsql10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\xypic\xycirc10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyv2.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyframe.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xycurve.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT f:\Projects\TeX\Elliptic_curves_text\main.aux
+INPUT f:\Projects\TeX\Elliptic_curves_text\main.aux
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm1200.tfm
+OUTPUT f:\Projects\TeX\Elliptic_curves_text\main.aux
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm1728.tfm
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\labx1728.tfm
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\lati1200.tfm
+INPUT f:\Projects\TeX\Elliptic_curves_text\pics\EC.png
+INPUT f:\Projects\TeX\Elliptic_curves_text\pics\EC.png
+OUTPUT f:\Projects\TeX\Elliptic_curves_text\main.pdf
+INPUT f:\Projects\TeX\Elliptic_curves_text\pics\EC.png
+INPUT f:\Projects\TeX\Elliptic_curves_text\pics\EC.png
+INPUT f:\Projects\TeX\Elliptic_curves_text\pics\EC.png
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm0800.tfm
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\tfm\lh\lh-t2a\larm0600.tfm
+INPUT f:\Projects\TeX\Elliptic_curves_text\main.aux
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1200.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
