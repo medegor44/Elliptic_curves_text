@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1583081202 "c:/Projects/TeX/Elliptic_curves_text/main.tex" "c:/Projects/TeX/Elliptic_curves_text/main.pdf" "main" 1583081203
+["pdflatex"] 1583140414 "c:/Projects/TeX/Elliptic_curves_text/main.tex" "c:/Projects/TeX/Elliptic_curves_text/main.pdf" "main" 1583140415
   "C:/Users/medeg/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk" 1582813785 45168 d93fe9c9baa15cc6e427dea87be6054d ""
   "C:/Users/medeg/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk" 1583080079 18244 9c0015ab9c6c6b719571a310e0051a2c ""
   "C:/Users/medeg/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk" 1582813680 27028 2819339876a1690563196fbeb23dad56 ""
@@ -95,14 +95,14 @@
   "C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1571243658 48596 2b6a95da931c07a430b1a61904aaa42d ""
   "C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/enumerate.sty" 1580644886 3469 19b6cb25f21abe53fb90b9fe27615441 ""
   "C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/indentfirst.sty" 1580644886 1619 d4cd7231755dd1dfa89af8ceddfb0e4d ""
-  "c:/Projects/TeX/Elliptic_curves_text/main.aux" 1583081203 619 d07e29d269ff3d7e2098faccc0bc8131 ""
-  "c:/Projects/TeX/Elliptic_curves_text/main.tex" 1583081200 10692 18cb15b5e9135cd2fff8e27b54a9111b ""
-  "main.aux" 1583081203 619 d07e29d269ff3d7e2098faccc0bc8131 "pdflatex"
-  "main.tex" 1583081200 10692 18cb15b5e9135cd2fff8e27b54a9111b ""
+  "c:/Projects/TeX/Elliptic_curves_text/main.aux" 1583140415 619 d07e29d269ff3d7e2098faccc0bc8131 ""
+  "c:/Projects/TeX/Elliptic_curves_text/main.tex" 1583140412 11059 be24bcab80f54b05f5667aba97faf274 ""
+  "main.aux" 1583140415 619 d07e29d269ff3d7e2098faccc0bc8131 "pdflatex"
+  "main.tex" 1583140412 11059 be24bcab80f54b05f5667aba97faf274 ""
   "pics/EC.png" 1582815265 20947 fccf173b4d877203ebce8a0b59c3de3f ""
   (generated)
-  "c:/Projects/TeX/Elliptic_curves_text/main.log"
-  "main.pdf"
   "main.aux"
   "c:/Projects/TeX/Elliptic_curves_text/main.pdf"
   "main.log"
+  "main.pdf"
+  "c:/Projects/TeX/Elliptic_curves_text/main.log"

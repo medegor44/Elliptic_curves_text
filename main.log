@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.27)  1 MAR 2020 19:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.27)  2 MAR 2020 12:13
 entering extended mode
 **c:/Projects/TeX/Elliptic_curves_text/main.tex
 (c:/Projects/TeX/Elliptic_curves_text/main.tex
@@ -546,16 +546,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 <pics/EC.png, id=1, 393.47pt x 380.42125pt>
 File: pics/EC.png Graphic file (type png)
 <use pics/EC.png>
-Package pdftex.def Info: pics/EC.png  used on input line 43.
+Package pdftex.def Info: pics/EC.png  used on input line 46.
 (pdftex.def)             Requested size: 393.46902pt x 380.4203pt.
  [1
 
-{C:/Users/medeg/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Projects/TeX/Elliptic_curves_text/pics/EC.png>]
-Overfull \hbox (6.70744pt too wide) in paragraph at lines 87--89
+{C:/Users/medeg/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <c:/Projects/TeX/Elliptic_curves_text/pics/EC.png>]
+Overfull \hbox (6.70744pt too wide) in paragraph at lines 90--92
 \OML/cmm/m/it/12 n  >  \OT1/cmr/m/n/12 0$\T2A/cmr/m/n/12 , то-гда $\OML/cmm/m/it/12 nP \OT1/cmr/m/n/12 = []$\T2A/cmr/m/n/12 . Ес-ли же $\OML/cmm/m/it/12 n < \OT1/cmr/m/n/12 0$\T2A/cmr/m/n/12 , то $\OML/cmm/m/it/12 nP \OT1/cmr/m/n/12 = []$ 
  []
 
-[2] [3] (c:/Projects\TeX\Elliptic_curves_text\main.aux) ) 
+[3] [4] (c:/Projects\TeX\Elliptic_curves_text\main.aux) ) 
 Here is how much of TeX's memory you used:
  6969 strings out of 481314
  88171 string characters out of 2908175
@@ -565,9 +565,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  33i,9n,31p,1483b,159s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on c:/Projects\TeX\Elliptic_curves_text\main.pdf (3 pages, 154579 bytes).
+Output written on c:/Projects\TeX\Elliptic_curves_text\main.pdf (4 pages, 156506 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
+ 184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
