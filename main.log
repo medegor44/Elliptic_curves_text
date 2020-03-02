@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.27)  2 MAR 2020 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.28)  2 MAR 2020 20:39
 entering extended mode
-**c:/Projects/TeX/Elliptic_curves_text/main.tex
-(c:/Projects/TeX/Elliptic_curves_text/main.tex
-LaTeX2e <2020-02-02> patch level 4
-L3 programming layer <2020-02-25> ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+**f:/Projects/TeX/Elliptic_curves_text/main.tex
+(f:/Projects/TeX/Elliptic_curves_text/main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -19,23 +19,23 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2020/02/14 3.40 The Babel package
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
 File: switch.def 2020/02/14 3.40 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\russianb.ldf"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\russianb.ldf"
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2020/02/14 3.40 Babel common definitions
 \babel@savecnt=\count175
 \U@D=\dimen135
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@readstream=\read2
 \bbl@dirlevel=\count176
 )
@@ -44,11 +44,11 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
 (babel)                Default `T2A' encoding will be loaded  on input line 74.
 
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.def"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
 File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -249,11 +249,11 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 ))
 Package babel Info: Making " an active character on input line 120.
 Package babel Info: Default for \cyrdash is provided on input line 157.
-)) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+)) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypic.sty" ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.sty" ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.tex" Bootstrap'ing: catcodes, docmode, ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyrecat.tex") ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyidioms.tex")
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypic.sty" ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.sty" ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xy.tex" Bootstrap'ing: catcodes, docmode, ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyrecat.tex") ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyidioms.tex")
 
  Xy-pic version 3.8.9 <2013/10/06>
  Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
@@ -304,9 +304,9 @@ Loading kernel: messages; fonts; allocations: state,
 \connectobjectbox@@=\box47
  objects,
 \styletoks@=\toks19
- decorations; kernel objects: directionals, circles, text; options; algorithms: directions, edges, connections;  Xy-pic loaded) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+ decorations; kernel objects: directionals, circles, text; options; algorithms: directions, edges, connections;  Xy-pic loaded) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
 
@@ -314,11 +314,11 @@ LaTeX Warning: You have requested package `xypic',
                but the package provides `xy'.
 
 Package: xy 2013/10/06 Xy-pic version 3.8.9
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf.tex"  Xy-pic option: PDF driver v.1.7 loaded)) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyv2.tex"  Xy-pic option: Version 2 Compatibility v.3.8
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf.tex"  Xy-pic option: PDF driver v.1.7 loaded)) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyv2.tex"  Xy-pic option: Version 2 Compatibility v.3.8
 
 Xy-pic Warning: `\stop' redefined.
 
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyframe.tex"  Xy-pic option: Frame and Bracket extension v.3.14 loaded) Xy-pic pdf driver: `frame' extension support ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-fr.tex" ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xycurve.tex"  Xy-pic option: Curve and Spline extension v.3.12 curve,
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyframe.tex"  Xy-pic option: Frame and Bracket extension v.3.14 loaded) Xy-pic pdf driver: `frame' extension support ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-fr.tex" ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xycurve.tex"  Xy-pic option: Curve and Spline extension v.3.12 curve,
 \crv@cnt@=\count181
 \crvpts@=\toks20
 \splinebox@=\box48
@@ -328,7 +328,7 @@ Xy-pic Warning: `\stop' redefined.
 \splinelength@=\dimen167
  circles,
 \L@=\dimen168
- loaded) Xy-pic pdf driver: `curve' extension support ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-cu.tex" loaded) loaded) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xymatrix.tex"  Xy-pic option: Matrix feature v.3.14
+ loaded) Xy-pic pdf driver: `curve' extension support ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xypdf-cu.tex" loaded) loaded) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xymatrix.tex"  Xy-pic option: Matrix feature v.3.14
 \Row=\count182
 \Col=\count183
 \queue@=\toks21
@@ -336,9 +336,9 @@ Xy-pic Warning: `\stop' redefined.
 \qcount@=\count184
 \qcount@@=\count185
 \matrixsize@=\count186
- loaded) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyarrow.tex"  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded) loaded)) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+ loaded) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xypic\xyarrow.tex"  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded) loaded)) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks23
 \symAMSa=\mathgroup4
@@ -346,23 +346,23 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+)) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen169
 )
 LaTeX Info: Redefining \text on input line 28.
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen170
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count187
@@ -402,10 +402,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks29
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip52
@@ -416,12 +416,12 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen180
 \titlewidthlast=\dimen181
 \titlewidthfirst=\dimen182
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks31
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count199
@@ -436,32 +436,32 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen189
 \Gm@layoutvoffset=\dimen190
 \Gm@dimlist=\toks32
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen191
 \Gin@req@width=\dimen192
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count268
 \l__pdf_internal_box=\box52
-) (c:/Projects\TeX\Elliptic_curves_text\main.aux
+) (f:/Projects\TeX\Elliptic_curves_text\main.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4.
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `main.aux'.
@@ -483,11 +483,11 @@ LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
- ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+ ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Package xypdf Info: Line width: 0.47998pt on input line 18.
@@ -526,7 +526,7 @@ Package xypdf Info: Line width: 0.47998pt on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count269
 \scratchdimen=\dimen193
@@ -539,7 +539,7 @@ Package xypdf Info: Line width: 0.47998pt on input line 18.
 \MPnumerator=\count273
 \makeMPintoPDFobject=\count274
 \everyMPtoPDFconversion=\toks34
-) ("C:\Users\medeg\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+) ("C:\Users\medegor44\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
@@ -550,22 +550,22 @@ Package pdftex.def Info: pics/EC.png  used on input line 46.
 (pdftex.def)             Requested size: 393.46902pt x 380.4203pt.
  [1
 
-{C:/Users/medeg/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <c:/Projects/TeX/Elliptic_curves_text/pics/EC.png>]
+{C:/Users/medegor44/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <f:/Projects/TeX/Elliptic_curves_text/pics/EC.png>]
 Overfull \hbox (6.70744pt too wide) in paragraph at lines 90--92
 \OML/cmm/m/it/12 n  >  \OT1/cmr/m/n/12 0$\T2A/cmr/m/n/12 , то-гда $\OML/cmm/m/it/12 nP \OT1/cmr/m/n/12 = []$\T2A/cmr/m/n/12 . Ес-ли же $\OML/cmm/m/it/12 n < \OT1/cmr/m/n/12 0$\T2A/cmr/m/n/12 , то $\OML/cmm/m/it/12 nP \OT1/cmr/m/n/12 = []$ 
  []
 
-[3] [4] (c:/Projects\TeX\Elliptic_curves_text\main.aux) ) 
+[3] [4] (f:/Projects\TeX\Elliptic_curves_text\main.aux) ) 
 Here is how much of TeX's memory you used:
- 6969 strings out of 481314
- 88171 string characters out of 2908175
- 389679 words of memory out of 3000000
- 22350 multiletter control sequences out of 15000+200000
+ 6966 strings out of 481556
+ 88624 string characters out of 2911997
+ 388527 words of memory out of 3000000
+ 22105 multiletter control sequences out of 15000+200000
  542759 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,9n,31p,1483b,159s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\medeg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/medeg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on c:/Projects\TeX\Elliptic_curves_text\main.pdf (4 pages, 156506 bytes).
+ <C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\medegor44\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/medegor44/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on f:/Projects\TeX\Elliptic_curves_text\main.pdf (4 pages, 156560 bytes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
